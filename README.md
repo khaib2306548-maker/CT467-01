@@ -18,7 +18,7 @@ Mọi người sau khi được phân công có thể đổi "Thành viên" thà
 ------------------------------------>Lưu ý bắt buộc theo quy định môn Quản trị dữ liệu (CT467)<------------------------------------
 Đúng phạm vi hệ thống: Chỉ xây dựng phần mềm quản lý nội bộ dành cho thủ thư/quản lý, tuyệt đối không làm chức năng đặt mượn sách online hay thanh toán trực tuyến.
 * Nhóm ứng dụng Lập trình & Cơ sở dữ liệu (Bắt buộc)
-- XAMPP: Bộ công cụ tích hợp sẵn máy chủ web Apache (để chạy file .php) và MySQL Server (nơi lưu trữ CSDL). Khi làm việc, bạn chỉ cần mở phần mềm này lên và bấm Start ở 2 dòng Apache và MySQL.
-- MySQL Workbench: Phần mềm giao diện chuyên dụng để kết nối vào MySQL Server của XAMPP/Laragon (cổng 3306), dùng để viết và chạy các script SQL (tạo bảng, Function, Trigger, Stored Procedure, dữ liệu mẫu), kiểm tra dữ liệu và xuất tự động sơ đồ ERD.  
+- XAMPP v3.3.0: Bộ công cụ tích hợp sẵn máy chủ web Apache (để chạy file .php) và MySQL Server (nơi lưu trữ CSDL). Khi làm việc, bạn chỉ cần mở phần mềm này lên và bấm Start ở 2 dòng Apache và MySQL.
+- MySQL Workbench 8.0 trở lên: Phần mềm giao diện chuyên dụng để kết nối vào MySQL Server của XAMPP/Laragon (cổng 3306), dùng để viết và chạy các script SQL (tạo bảng, Function, Trigger, Stored Procedure, dữ liệu mẫu), kiểm tra dữ liệu và xuất tự động sơ đồ ERD.  
 - Visual Studio Code (VS Code): Môi trường lập trình chính để viết code HTML, CSS, PHP và chỉnh sửa file .sql. Nhóm nên cài thêm 2 extension trong VS Code là PHP Intelephense (hỗ trợ gợi ý code PHP) và Database Client (xem nhanh dữ liệu bảng ngay trong VS Code).
 - Trình duyệt Web (Chrome hoặc Microsoft Edge): Dùng để chạy và kiểm thử giao diện ứng dụng qua địa chỉ http://localhost/ten_du_an.
