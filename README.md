@@ -15,6 +15,6 @@ Mọi người sau khi được phân công có thể đổi "Thành viên" thà
 3. Thành viên 3 – Phụ trách Slide 5 (Thống kê Thư viện) và Slide 6 (Đọc & Xuất file Excel)
 4. Thành viên 4 – Phụ trách Kiểm thử toàn bộ , Dữ liệu mẫu, Báo cáo & Thuyết trình
    
------------------------------------->Lưu ý bắt buộc theo quy định môn Quản trị dữ liệu (CT467)<---------------------------------------
+------------------------------------>Lưu ý bắt buộc theo quy định môn Quản trị dữ liệu (CT467)<------------------------------------
 Đúng phạm vi hệ thống: Chỉ xây dựng phần mềm quản lý nội bộ dành cho thủ thư/quản lý, tuyệt đối không làm chức năng đặt mượn sách online hay thanh toán trực tuyến.
 
